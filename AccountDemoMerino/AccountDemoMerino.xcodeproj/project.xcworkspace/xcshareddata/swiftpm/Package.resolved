@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AuthViewMerino",
+        "repositoryURL": "/Users/diogohenrique/Desktop/MerinoAuthViewSwiftUI/",
+        "state": {
+          "branch": "v1",
+          "revision": "a0e4c162330284703a1e3db4b70e098e264d3b1b",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
